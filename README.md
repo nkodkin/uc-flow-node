@@ -13,11 +13,10 @@
 7. Запустите Ngrok http на порту 9000. Сделайте его скриншот и добавьте в README.md
 
 Ответ:
-Файлы в контейнере:
-
+Файлы в контейнере
 ![image](https://github.com/nkodkin/uc-flow-node/assets/110198161/fb602e96-049b-458a-b0e7-c7a993330006)
 ![image](https://github.com/nkodkin/uc-flow-node/assets/110198161/76ff7181-5ebe-4f8a-b79d-4c1f571a36a4)
 
-Ngrok:
+Ngrok
+![image](https://github.com/nkodkin/uc-flow-node/assets/110198161/5db761ae-8350-4b47-a999-d840cb44d388)
 
-![image](https://github.com/nkodkin/uc-flow-node/assets/110198161/e570a33e-1500-430f-913e-bfc15f8329d3)
