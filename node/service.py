@@ -10,13 +10,13 @@ from uc_http_requester.requester import Request
 
 
 class NodeType(flow.NodeType):
-    id: str = 'Example'
+    id: str = 'first_task_id'
     type: flow.NodeType.Type = flow.NodeType.Type.action
-    name: str = 'Example'
+    name: str = 'first_task_node'
     is_public: bool = False
-    displayName: str = 'Example'
+    displayName: str = 'first_task_node'
     icon: str = '<svg><text x="8" y="50" font-size="50">🤖</text></svg>'
-    description: str = 'Example'
+    description: str = 'first_task'
     properties: List[Property] = [
         Property(
             displayName='Тестовое поле',
